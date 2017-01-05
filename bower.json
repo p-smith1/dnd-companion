@@ -1,0 +1,19 @@
+{
+  "name": "dnd-companion",
+  "version": "0.0.0",
+  "homepage": "https://github.com/logitron/dnd-companion",
+  "authors": [
+    "Patrick Smith <patrick.smith@kashew.net>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "materialize": "~0.97.8"
+  }
+}

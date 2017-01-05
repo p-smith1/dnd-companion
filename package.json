@@ -1,0 +1,28 @@
+{
+  "name": "dnd-companion",
+  "version": "1.0.0",
+  "description": "D&D Companion Web Application",
+  "main": "gulpfile.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "gulp": "^3.9.1"
+  },
+  "devDependencies": {
+    "gulp": "^3.9.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/logitron/dnd-companion.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/logitron/dnd-companion/issues"
+  },
+  "homepage": "https://github.com/logitron/dnd-companion#readme"
+}
